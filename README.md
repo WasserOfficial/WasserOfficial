@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey there, I'm Wasser 👋
 
-<!--
-**WasserOfficial/WasserOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a developer passionate about the intersection of **technology** and **finance**, with a deep focus on building secure, innovative solutions. My interests span across:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔐 **Cybersecurity** - Building and breaking systems to understand security better
+- 💰 **Crypto & Blockchain** - Exploring decentralized technologies and their potential
+- 📊 **Finance** - Bridging traditional finance with emerging tech
+- 💻 **Coding** - Writing clean, efficient code to solve real-world problems
+
+## Tech Stack
+
+**Primary Language:**
+- Node.js | JavaScript/TypeScript
+
+**Areas of Focus:**
+- Backend development & API design
+- Smart contract development
+- Security auditing & penetration testing
+- Financial data analysis & trading systems
+- Web3 integration
+
+## Let's Connect
+
+Always open to collaborating on projects related to crypto, security, or fintech. Feel free to reach out!
+
+---
+
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
