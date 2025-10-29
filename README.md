@@ -1,4 +1,4 @@
-# Hey there, I'm Wasser 👋
+# Hey there, I'm Wasser 
 
 ## About Me
 
@@ -8,11 +8,6 @@ I'm a developer passionate about the intersection of **technology** and **financ
 - 💰 **Crypto & Blockchain** - Exploring decentralized technologies and their potential
 - 📊 **Finance** - Bridging traditional finance with emerging tech
 - 💻 **Coding** - Writing clean, efficient code to solve real-world problems
-
-
-## Let's Connect
-
-Always open to collaborating on projects related to crypto, security, or fintech. Feel free to reach out!
 
 ---
 
