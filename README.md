@@ -9,17 +9,6 @@ I'm a developer passionate about the intersection of **technology** and **financ
 - 📊 **Finance** - Bridging traditional finance with emerging tech
 - 💻 **Coding** - Writing clean, efficient code to solve real-world problems
 
-## Tech Stack
-
-**Primary Language:**
-- Node.js | JavaScript/TypeScript
-
-**Areas of Focus:**
-- Backend development & API design
-- Smart contract development
-- Security auditing & penetration testing
-- Financial data analysis & trading systems
-- Web3 integration
 
 ## Let's Connect
 
